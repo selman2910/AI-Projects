@@ -21,7 +21,5 @@ A Python implementation of a **Polynomial Regression** model.
 - Model evaluation (RMSE, R²)
 
 
----
 
-## 📌 Repository Structure
 
