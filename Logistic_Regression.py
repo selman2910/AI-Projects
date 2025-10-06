@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 def main():
-    file_path = r""
+    file_path = r"data/student_admission_data.txt"
     data = np.loadtxt(file_path, skiprows=1)
     x=data[:,0:2]
     y=data[:,2]
