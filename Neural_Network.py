@@ -7,7 +7,7 @@ from tensorflow.keras.layers import Dense
 from tensorflow.keras.layers import Normalization
 
 def Tensorflow():
-    file_path = r"C:\Users\Selman ŞİMŞEK\Desktop\Selman\3rd year\AI examples\student_admission_data.txt"
+    file_path = "student_admission_data.txt"
     data = np.loadtxt(file_path, skiprows=1)
     x=data[:,0:2]
     y=data[:,2]
