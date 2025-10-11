@@ -17,12 +17,15 @@ A Python implementation of a **Polynomial Regression** model.
 - Implements logistic regression from python using gradient descent.
 - Uses a real-world inspired dataset (exam score vs admission result).
 - Focuses on classification concepts, sigmoid function, and cost optimization.
-
+### 3. Neural Network
+- Impelements a simple feed-forward neural network from scratch using NumPy and Tensorflow.
+- It includes forward propagation, activation functions, and using Tensorflow gradient descent implementation for learning.
 **Skills Covered:**  
 - Python programming  
 - NumPy and Matplotlib  
 - Regression analysis  
 - Model evaluation (RMSE, R²)
+
 
 
 
