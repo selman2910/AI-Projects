@@ -20,11 +20,13 @@ A Python implementation of a **Polynomial Regression** model.
 ### 3. Neural Network
 - Impelements a simple feed-forward neural network from scratch using NumPy and Tensorflow.
 - It includes forward propagation, activation functions, and using Tensorflow gradient descent implementation for learning.
+
 **Skills Covered:**  
 - Python programming  
 - NumPy and Matplotlib  
 - Regression analysis  
 - Model evaluation (RMSE, R²)
+- Usage of Tensorflow
 
 
 
